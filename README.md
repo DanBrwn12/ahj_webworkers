@@ -2,4 +2,4 @@
 
 [Ссылка на GitHub Pages](https://danbrwn12.github.io/ahj_webworkers/)
 
-# Домашнее задание к занятию "11. RxJS"
+# Домашнее задание к занятию "12. WebWorkers, ServiceWorkers"
